@@ -1,0 +1,9 @@
+C:\Users\annng\Desktop\MIS118_AnnieNguyen_Lab4\3.0\3.0\3.0\bin\Debug\3.0.exe.config
+C:\Users\annng\Desktop\MIS118_AnnieNguyen_Lab4\3.0\3.0\3.0\bin\Debug\3.0.exe
+C:\Users\annng\Desktop\MIS118_AnnieNguyen_Lab4\3.0\3.0\3.0\bin\Debug\3.0.pdb
+C:\Users\annng\Desktop\MIS118_AnnieNguyen_Lab4\3.0\3.0\3.0\obj\Debug\3.0.csprojResolveAssemblyReference.cache
+C:\Users\annng\Desktop\MIS118_AnnieNguyen_Lab4\3.0\3.0\3.0\obj\Debug\_3._0.frmSimpleCalculator.resources
+C:\Users\annng\Desktop\MIS118_AnnieNguyen_Lab4\3.0\3.0\3.0\obj\Debug\_3._0.Properties.Resources.resources
+C:\Users\annng\Desktop\MIS118_AnnieNguyen_Lab4\3.0\3.0\3.0\obj\Debug\3.0.csproj.GenerateResource.Cache
+C:\Users\annng\Desktop\MIS118_AnnieNguyen_Lab4\3.0\3.0\3.0\obj\Debug\3.0.exe
+C:\Users\annng\Desktop\MIS118_AnnieNguyen_Lab4\3.0\3.0\3.0\obj\Debug\3.0.pdb

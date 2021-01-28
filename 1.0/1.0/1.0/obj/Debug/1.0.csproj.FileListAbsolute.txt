@@ -1,0 +1,10 @@
+C:\Users\annng\Desktop\MIS118_AnnieNguyen_Lab4\1.0\1.0\1.0\bin\Debug\1.0.exe.config
+C:\Users\annng\Desktop\MIS118_AnnieNguyen_Lab4\1.0\1.0\1.0\bin\Debug\1.0.exe
+C:\Users\annng\Desktop\MIS118_AnnieNguyen_Lab4\1.0\1.0\1.0\bin\Debug\1.0.pdb
+C:\Users\annng\Desktop\MIS118_AnnieNguyen_Lab4\1.0\1.0\1.0\obj\Debug\1.0.csprojResolveAssemblyReference.cache
+C:\Users\annng\Desktop\MIS118_AnnieNguyen_Lab4\1.0\1.0\1.0\obj\Debug\_1._0.frmStudentGrades.resources
+C:\Users\annng\Desktop\MIS118_AnnieNguyen_Lab4\1.0\1.0\1.0\obj\Debug\_1._0.Properties.Resources.resources
+C:\Users\annng\Desktop\MIS118_AnnieNguyen_Lab4\1.0\1.0\1.0\obj\Debug\1.0.csproj.GenerateResource.Cache
+C:\Users\annng\Desktop\MIS118_AnnieNguyen_Lab4\1.0\1.0\1.0\obj\Debug\1.0.exe
+C:\Users\annng\Desktop\MIS118_AnnieNguyen_Lab4\1.0\1.0\1.0\obj\Debug\1.0.pdb
+C:\Users\annng\Desktop\MIS118_AnnieNguyen_Lab4\1.0\1.0\1.0\obj\Debug\_1._0.frmError.resources
